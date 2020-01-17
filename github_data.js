@@ -4407,5 +4407,13 @@ const githubData = [
     }
   ]
 
-  console.log(githubData[?].)
+    for (i === 8030403992) {
+        for (let i=0; i < githubdata.length; i++) {
+        console.log(githubData[i].payload.commits[0.message]);
+    }
+}
+
+// is this it?
+
+//   console.log(githubData[6].payload.commits[0].message);
   
